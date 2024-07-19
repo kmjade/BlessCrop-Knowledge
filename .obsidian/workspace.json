@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "74a141060d0f503e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95c0225b2fe74e36",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "226cea06afa69ebb",
@@ -142,13 +128,21 @@
                 "file": "欢迎.md"
               }
             }
+          },
+          {
+            "id": "b6d75c2050a19867",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +151,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "d2a31e9fd7960162",
   "lastOpenFiles": [
-    "README.md",
-    "欢迎.md"
+    "欢迎.md",
+    "README.md"
   ]
 }
