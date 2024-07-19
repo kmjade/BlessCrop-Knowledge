@@ -128,21 +128,14 @@
                 "file": "欢迎.md"
               }
             }
-          },
-          {
-            "id": "b6d75c2050a19867",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +148,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d2a31e9fd7960162",
+  "active": "ea9fbb7b38e4541f",
   "lastOpenFiles": [
     "欢迎.md",
     "README.md"
