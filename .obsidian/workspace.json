@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "textgenerator/templates/default/getTitles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "textgenerator/templates/default/getTitles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,27 +151,27 @@
   },
   "active": "ea9fbb7b38e4541f",
   "lastOpenFiles": [
-    "template",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getEmailNeg.md",
     "textgenerator/configs/llm/config_7-19212343.json.md",
+    "textgenerator/templates/default",
+    "textgenerator/configs/llm",
+    "textgenerator/templates",
+    "textgenerator/configs",
+    "textgenerator",
+    "template",
     "昆明.md",
     "OpenAI_Obsidian_tutorial.md",
     "欢迎.md",
-    "textgenerator/templates/default/getEmailNeg.md",
-    "textgenerator/templates/default/getParagraph.md",
-    "textgenerator/templates/default/rewrite.md",
-    "textgenerator/templates/default/getOutline.md",
-    "textgenerator/templates/default/getEmailPos.md",
-    "textgenerator/templates/default/getIdeas.md",
-    "textgenerator/templates/default/summarize.md",
-    "textgenerator/templates/default/getTitles.md",
-    "textgenerator/templates/default/getTags.md",
-    "textgenerator/templates/default/simplify.md",
-    "textgenerator/templates/default/summarizeLarge.md",
-    "textgenerator/templates/default",
-    "textgenerator/templates",
-    "textgenerator/configs/llm",
-    "textgenerator/configs",
-    "textgenerator",
     "README.md"
   ]
 }
