@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8698418ba97f7ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "textgenerator/templates/default/getTitles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +147,13 @@
       "command-palette:打开命令面板": false,
       "copilot:Copilot Chat": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8698418ba97f7ce2",
+  "active": "ea9fbb7b38e4541f",
   "lastOpenFiles": [
+    "template",
     "textgenerator/configs/llm/config_7-19212343.json.md",
     "昆明.md",
     "OpenAI_Obsidian_tutorial.md",
