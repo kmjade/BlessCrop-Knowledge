@@ -3,6 +3,8 @@
 
 /.idea/
 
-/.obsidian/
+!/.obsidian/
 
 !/.obsidian/plugins
+
+/.obsidian/plugins/copilot/
