@@ -4,3 +4,6 @@
 /.idea/
 
 /.obsidian/
+
+!.obsidian/plugins
+.obsidian/plugins/*
