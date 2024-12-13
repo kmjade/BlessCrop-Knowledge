@@ -10,7 +10,7 @@ para: project
 ```dataview
 list without id length(rows.file.name)
 from "1 Projects"
-where para = "project"
+where para = "project" AND file.name != "1 Projects"
 group by 1
 ```
 
@@ -24,7 +24,9 @@ SORT domain
 ```
 
 ```dataview 
-table start_date, by-when, status from "1 Projects"
+table start_date, by-when, status 
+from "1 Projects" 
+WHERE file.name != "1 Projects"
 SORT file.mtime desc
 LIMIT 10
 ```

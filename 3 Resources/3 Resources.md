@@ -8,14 +8,14 @@ para: resource
 ```dataview
 list without id length(rows.file.name)
 from "3 Resources"
-where para = "resource"
+where para = "resource" AND file.name != "3 Resources"
 group by 1
 ```
 
 ```dataview
 TABLE WITHOUT ID file.link as "Resource", length(file.inlinks) as "No. of Linked Files"
 FROM "1 Projects" or "2 Areas" or "3 Resources"
-WHERE para = "resource"
+WHERE para = "resource" AND file.name != "3 Resources"
 SORT length(file.inlinks) desc
 ```
 
@@ -23,6 +23,6 @@ SORT length(file.inlinks) desc
 > ```dataview
 > table file.inlinks as "Linked Files"
 > from "3 Resources" 
-> where para = "resource"
+> where para = "resource" AND file.name != "3 Resources"
 > sort file.name
 > ```
